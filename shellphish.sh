@@ -1,5 +1,5 @@
 #!/bin/bash
-# ShellPhish v1.8
+# Ichu v1.8
 # Coded by: linux_choice (You dont become a coder by just changing the credits).
 # Recreated by: KaliLinux.IN (Yes we are not the coder of this script we just re uploaded this again because the original is deleted.)
 # Deleted Github link: https://github.com/thelinuxchoice/shellphish
